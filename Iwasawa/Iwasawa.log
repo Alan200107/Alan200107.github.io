@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.24)  27 FEB 2022 11:30
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.24)  27 FEB 2022 22:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -703,7 +703,7 @@ LaTeX Font Info:    Trying to load font information for U+bbold on input line 68
 ] [7
 
 ]
-Overfull \vbox (6.74564pt too high) detected at line 140
+Overfull \vbox (6.0015pt too high) detected at line 140
  []
 
 [8
@@ -738,18 +738,18 @@ Overfull \vbox (6.74564pt too high) detected at line 140
 \tf@snm=\write8
 \openout8 = `Iwasawa.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
  (./Iwasawa.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 256.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 256.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 257.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
 Package rerunfilecheck Info: File `Iwasawa.out' has not changed.
 (rerunfilecheck)             Checksum: 06496F9ADDBCCFA8712E6A83720AB71F;239.
  ) 
 Here is how much of TeX's memory you used:
  21703 strings out of 479418
  393245 string characters out of 5888105
- 651118 words of memory out of 5000000
+ 651124 words of memory out of 5000000
  38725 multiletter control sequences out of 15000+600000
  588823 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

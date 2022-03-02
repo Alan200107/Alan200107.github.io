@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.24)  27 FEB 2022 22:59
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.24)  2 MAR 2022 09:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -728,6 +728,8 @@ Overfull \vbox (6.0015pt too high) detected at line 140
 
 ] [18
 
+] [19
+
 ]
 \tf@nav=\write6
 \openout6 = `Iwasawa.nav'.
@@ -738,21 +740,21 @@ Overfull \vbox (6.0015pt too high) detected at line 140
 \tf@snm=\write8
 \openout8 = `Iwasawa.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 265.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 265.
  (./Iwasawa.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 257.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 265.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 265.
 Package rerunfilecheck Info: File `Iwasawa.out' has not changed.
-(rerunfilecheck)             Checksum: 06496F9ADDBCCFA8712E6A83720AB71F;239.
+(rerunfilecheck)             Checksum: 6801184E50DFF31D9E024A54A4FCD66B;284.
  ) 
 Here is how much of TeX's memory you used:
- 21703 strings out of 479418
- 393245 string characters out of 5888105
- 651124 words of memory out of 5000000
- 38725 multiletter control sequences out of 15000+600000
+ 21706 strings out of 479418
+ 393250 string characters out of 5888105
+ 652720 words of memory out of 5000000
+ 38728 multiletter control sequences out of 15000+600000
  588823 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,22n,67p,770b,783s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Iwasawa.pdf (18 pages).
+Output written on Iwasawa.pdf (19 pages).

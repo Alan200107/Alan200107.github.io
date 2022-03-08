@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.24)  2 MAR 2022 09:00
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.24)  8 MAR 2022 23:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -703,7 +703,7 @@ LaTeX Font Info:    Trying to load font information for U+bbold on input line 68
 ] [7
 
 ]
-Overfull \vbox (6.0015pt too high) detected at line 140
+Overfull \vbox (6.0015pt too high) detected at line 138
  []
 
 [8
@@ -751,7 +751,7 @@ Package rerunfilecheck Info: File `Iwasawa.out' has not changed.
 Here is how much of TeX's memory you used:
  21706 strings out of 479418
  393250 string characters out of 5888105
- 652720 words of memory out of 5000000
+ 652974 words of memory out of 5000000
  38728 multiletter control sequences out of 15000+600000
  588823 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

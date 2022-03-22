@@ -1,7 +1,5 @@
 ## Welcome to Anlun Li's homepage!  (李安伦)   
 
-## <img align="right"  src="picture\indexx\pic.jpg" alt="pic" style="zoom:25%;" />
-
 ---
 
 ##### Basic Information:

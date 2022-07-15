@@ -1,5 +1,0 @@
-\beamer@sectionintoc {1}{Stronger versions}{8}{0}{1}
-\beamer@sectionintoc {2}{Modular Forms}{10}{0}{2}
-\beamer@sectionintoc {3}{Galois Representation}{36}{0}{3}
-\beamer@sectionintoc {4}{Ribet's Idea}{44}{0}{4}
-\beamer@sectionintoc {5}{Reference}{50}{0}{5}
